@@ -1,4 +1,4 @@
-<img src="/pics/logo.png" width="950px" height="115px"> 
+<img src="/pics/logo.png" width="950px"> 
 
 
 # CUDA Introduction
