@@ -3,4 +3,4 @@
 
 # CUDA Introduction
 
-### Lin Moule
+### Lin Moule and 
