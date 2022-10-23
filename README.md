@@ -19,8 +19,8 @@ Instance with CUDA in CVPR2022
 - [robustMatch](https://github.com/thinklab-sjtu/robustmatch)
 - .............
   
-  ![](/pics/torch.png)
-  
+  <img src="/pics/torch.png" width="650px"> 
+
 Content of this repository:
 
 - CUDA Definition. 
