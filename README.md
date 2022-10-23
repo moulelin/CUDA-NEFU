@@ -13,7 +13,7 @@
 
 3. [CUDA/C++ with Pytorch](https://github.com/moulelin/CUDA-NEFU/wiki/CUDA-Pytorch)
 
-4. Research Recently 
+4. [Research Recently](https://github.com/moulelin/CUDA-NEFU/wiki/CUDA-Research)
    
 
 
