@@ -6,11 +6,16 @@
 # CUDA
 
 ### Introduction
-1. [What's CUDA in DL ?](https://github.com/moulelin/CUDA-NEFU/wiki/CUDA-Definition)
+
+1. [Why we need CUDA ?](https://github.com/moulelin/CUDA-NEFU/wiki/CUDA-Definition)
    
-2. How to use CUDA in DL ?
+2. [How to use CUDA in DL ?](https://github.com/moulelin/CUDA-NEFU/wiki/CUDA-Grammar)
+
+3. [CUDA/C++ with Pytorch](https://github.com/moulelin/CUDA-NEFU/wiki/CUDA-Pytorch)
+
+4. Research Recently 
    
-3. Why we need CUDA ?
+
 
 `WIKIPEDIA` Definition: https://en.wikipedia.org/wiki/CUDA
 
