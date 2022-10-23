@@ -4,13 +4,13 @@
 # CUDA
 
 ### Introduction
-- What's CUDA in DL ?
-- How to use CUDA in DL ?
-- Why we need CUDA ?
+1. [What's CUDA in DL ?](https://github.com/moulelin/CUDA-NEFU/wiki/CUDA-Definition)
+2. How to use CUDA in DL ?
+3. Why we need CUDA ?
 
 WIKIPEDIA Definition: https://en.wikipedia.org/wiki/CUDA
 
-Instance in CVPR
+Instance with CUDA in CVPR
 - [3DAttriFlow](https://github.com/fatPeter/ThreeDAC)
 - [ShiftGCN](https://github.com/kchengiva/Shift-GCN)
 - [AdaInt
