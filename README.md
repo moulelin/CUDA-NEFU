@@ -12,9 +12,11 @@ WIKIPEDIA Definition: https://en.wikipedia.org/wiki/CUDA
 
 Content of this repository:
 
-- CUDA Definition
+- CUDA Definition. 
 - CUDA with C++
 - CUDA/C++ with Pytorch
+
+This material is made for presentation purposes for the Group Report of NEFU ICEC
 
 
 
