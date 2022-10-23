@@ -10,7 +10,7 @@
 
 WIKIPEDIA Definition: https://en.wikipedia.org/wiki/CUDA
 
-Instance with CUDA in CVPR
+Instance with CUDA in CVPR2022
 - [3DAttriFlow](https://github.com/fatPeter/ThreeDAC)
 - [ShiftGCN](https://github.com/kchengiva/Shift-GCN)
 - [AdaInt
@@ -18,6 +18,8 @@ Instance with CUDA in CVPR
 - [TwoStageAlign](https://github.com/guoshi28/2stagealign)
 - [robustMatch](https://github.com/thinklab-sjtu/robustmatch)
 - .............
+  
+  ![](/pics/torch.png)
   
 Content of this repository:
 
