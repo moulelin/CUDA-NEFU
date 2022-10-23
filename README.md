@@ -7,7 +7,9 @@
 
 ### Introduction
 1. [What's CUDA in DL ?](https://github.com/moulelin/CUDA-NEFU/wiki/CUDA-Definition)
+   
 2. How to use CUDA in DL ?
+   
 3. Why we need CUDA ?
 
 `WIKIPEDIA` Definition: https://en.wikipedia.org/wiki/CUDA
@@ -48,6 +50,7 @@ Content of this repository:
 
 
 
+--------------------------------------------------------------------------------
 This material is made for presentation purposes for the Group Report of NEFU ICEC
 
 
