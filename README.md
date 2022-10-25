@@ -22,13 +22,13 @@
 
 
 - Instance with CUDA in CVPR2022 papers
-  
-  - [3DAttriFlow](https://github.com/fatPeter/ThreeDAC)
+  - [AdaInt](https://github.com/imcharlesy/adaint)
+
+  - [DeepVision3D](https://github.com/dvlab-research/deepvision3d)
   
   - [ShiftGCN](https://github.com/kchengiva/Shift-GCN)
   
-  - [AdaInt
-  ](https://github.com/imcharlesy/adaint)
+ 
   
   - [TwoStageAlign](https://github.com/guoshi28/2stagealign)
   
