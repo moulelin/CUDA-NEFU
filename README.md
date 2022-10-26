@@ -21,14 +21,13 @@
 
 
 
-- Instance with CUDA in CVPR2022 papers
+- Papers using CUDA at conferences CVPR2022
   - [AdaInt](https://github.com/imcharlesy/adaint)
 
   - [DeepVision3D](https://github.com/dvlab-research/deepvision3d)
   
   - [ShiftGCN](https://github.com/kchengiva/Shift-GCN)
   
- 
   
   - [TwoStageAlign](https://github.com/guoshi28/2stagealign)
   
