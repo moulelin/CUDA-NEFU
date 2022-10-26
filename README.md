@@ -21,7 +21,7 @@
 
 
 
-- Papers using CUDA at conferences CVPR2022
+- Papers used CUDA at conferences CVPR2022
   - [AdaInt](https://github.com/imcharlesy/adaint)
 
   - [DeepVision3D](https://github.com/dvlab-research/deepvision3d)
